@@ -1,6 +1,7 @@
-- 👋 Hi! I’m Filipe Martins.
-- 👀 I’m interested in Web Development. 
-- 🌱 I’m currently learning JS and Git.
+- 👋 Ola! Eu sou o Filipe.
+- </> Atualmente estudo Desenvolvimento web.
+- </> Tenho conhecimento em HTML, CSS, JavaScript, Git, 
+- 🌱 Meu desejo é tornar suas ideias realidade!
 - 📫 How to reach me: filipe.martins.dev@gmail.com
 
 <!---
