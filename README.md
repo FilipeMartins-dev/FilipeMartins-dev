@@ -1,6 +1,6 @@
 - 👋 Ola! Eu sou o Filipe.
 - </> Atualmente estudo Desenvolvimento web.
-- </> Tenho conhecimento em HTML, CSS, JavaScript, Git, 
+- </> Tenho conhecimento em HTML, CSS, JavaScript e Git, 
 - 🌱 Meu desejo é tornar suas ideias realidade!
 - 📫 How to reach me: filipe.martins.dev@gmail.com
 
