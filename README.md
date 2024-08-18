@@ -1,8 +1,15 @@
-- 👋 Ola! Eu sou o Filipe.
-- </> Atualmente estudo Desenvolvimento web.
-- </> Tenho conhecimento em HTML, CSS, JavaScript e Git.
+# 👋 Ola! Eu sou o Filipe.
+## </> Estudante de Desenvolvimento Web
 - 🌱 Meu desejo é tornar suas ideias realidade!
 - 📫 Fale comigo: filipe.martins.dev@gmail.com.
+
+### Skills
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [x] GIT
+- [x] Figma
+- [x] Notion
 
 <!---
 FilipeMartins-dev/FilipeMartins-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
