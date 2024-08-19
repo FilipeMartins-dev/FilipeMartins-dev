@@ -4,10 +4,12 @@
 - 📫 Fale comigo: filipe.martins.dev@gmail.com
 
 ### 🎯Skills
-- [x] HTML
+- [x] HTML 
 - [x] CSS
 - [x] JavaScript
+- [x] NodeJS
 - [x] GIT
+- [x] Axios Library
 - [x] Figma
 
 
