@@ -20,7 +20,6 @@
 - **`JavaScript`**
 - **`NodeJS`**
 - **`GIT`**
-- **`Axios Library`**
 - **`Figma`**
 
 <hr>
