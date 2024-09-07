@@ -9,7 +9,6 @@
 | canal | contato |
 |---|---|
 | email | fiilipe.martins.dev@gmail.com | 
-| whatsapp | +55 (62) 98339-4042 |
 | instagram | @filipemartins.dev |
 
 <hr>
