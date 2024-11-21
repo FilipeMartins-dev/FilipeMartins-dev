@@ -9,7 +9,6 @@
 | canal | contato |
 |---|---|
 | email | fiilipe.martins.dev@gmail.com | 
-| instagram | @filipemartins.dev |
 
 <hr>
 
